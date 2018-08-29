@@ -1,8 +1,8 @@
 {
   "name": "expresjs",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Learning Node js and Express From lynda.com",
+  "main": "app/app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
